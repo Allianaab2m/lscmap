@@ -1,0 +1,16 @@
+{
+  "name": "lscmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alliana",
+  "license": "MIT",
+  "packageManager": "pnpm@8.6.12",
+  "engines": {
+    "pnpm": ">=8.6.12"
+  }
+}
